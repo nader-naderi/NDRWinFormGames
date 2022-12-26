@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pong", "Pong\Pong.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformer", "Platformer\Platformer.csproj", "{265EE301-A67A-43E6-95B4-3A0F2BCD08FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astroids", "Astroids\Astroids.csproj", "{A584BB68-6EAF-496C-B416-29399600E4DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{265EE301-A67A-43E6-95B4-3A0F2BCD08FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{265EE301-A67A-43E6-95B4-3A0F2BCD08FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{265EE301-A67A-43E6-95B4-3A0F2BCD08FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A584BB68-6EAF-496C-B416-29399600E4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A584BB68-6EAF-496C-B416-29399600E4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A584BB68-6EAF-496C-B416-29399600E4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A584BB68-6EAF-496C-B416-29399600E4DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
