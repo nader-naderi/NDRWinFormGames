@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pong", "Pong\Pong.csproj", "{14033092-440F-44C4-8F45-46B2A7188FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformer", "Platformer\Platformer.csproj", "{265EE301-A67A-43E6-95B4-3A0F2BCD08FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14033092-440F-44C4-8F45-46B2A7188FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14033092-440F-44C4-8F45-46B2A7188FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14033092-440F-44C4-8F45-46B2A7188FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14033092-440F-44C4-8F45-46B2A7188FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265EE301-A67A-43E6-95B4-3A0F2BCD08FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265EE301-A67A-43E6-95B4-3A0F2BCD08FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265EE301-A67A-43E6-95B4-3A0F2BCD08FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265EE301-A67A-43E6-95B4-3A0F2BCD08FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADE07CDC-F238-4358-BCEA-974B53A87025}
+	EndGlobalSection
+EndGlobal
