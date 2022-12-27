@@ -1,4 +1,4 @@
-﻿namespace Pong.NDRFormsGameEngine
+﻿namespace NDRFormsGameEngine
 {
     public class GameObject : PictureBox
     {

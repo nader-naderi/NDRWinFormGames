@@ -1,5 +1,3 @@
-using Pong.NDRFormsGameEngine;
-
 namespace Pong
 {
     public partial class Form1 : Form
@@ -22,7 +20,7 @@ namespace Pong
 
         private void CreateBlock(int i, int j)
         {
-            GameObject newBlock = new GameObject("block_" + i + ", " + j);
+            PictureBox newBlock = new PictureBox();
             newBlock.Size = new Size(50, 20);
             newBlock.Location = new Point(i * newBlock.Size.Width, j * newBlock.Size.Height);
             newBlock.BackColor = colors[random.Next(0, colors.Length)];
